@@ -16,7 +16,7 @@
 </p>
 
 ## 🚀 How to use
-
+- Install expo CLI with `sudo npm install --global expo-cli` 
 - Install packages with `yarn` or `npm install`.
   - If you have native iOS code run `npx pod-install`
 - Run `yarn start` to start the bundler.
